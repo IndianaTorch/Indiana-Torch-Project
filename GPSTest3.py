@@ -24,7 +24,7 @@ while True:
             i = i + 1
     i = 0
     print "\n"
-    time.sleep(59) 
+    time.sleep(5) 
     
 
             
