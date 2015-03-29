@@ -1,5 +1,5 @@
 
-python GPSTest3.py > log.txt &
+python GPStest.py &
 ./autoup.sh &
 
 
