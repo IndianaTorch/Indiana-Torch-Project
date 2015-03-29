@@ -29,7 +29,7 @@ while True:
             i = i + 1
     i = 0
     #print "\n"
-    time.sleep(4) 
+    time.sleep(59) 
     
 
             
