@@ -14,13 +14,12 @@ while True:
     		# To see all report data, uncomment the line below
     		# print report
         if report['class'] == 'TPV':
-            if hasattr(report, 'time'):
-                print "Time = %s" % report.time 
-                #print report.time
-            if hasattr(report, 'lon'):
-                print "Longitude = %s" % report.lon
-            if hasattr(report, 'lat'):
-                print "Latitude = %s" % report.lat
+            #if hasattr(report, 'time'):
+                #print "Time = %s" % report.time 
+            #if hasattr(report, 'lon'):
+                #print "Longitude = %s" % report.lon
+            #if hasattr(report, 'lat'):
+                #print "Latitude = %s" % report.lat
             # open("log.txt", "w") as text_file:
             text_file = open("log.txt", "a")
             text_file.write("\nTime = %s \n" % report.time)
@@ -29,7 +28,7 @@ while True:
             text_file.close()
             i = i + 1
     i = 0
-    print "\n"
+    #print "\n"
     time.sleep(4) 
     
 
