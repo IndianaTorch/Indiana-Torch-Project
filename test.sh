@@ -1,5 +1,5 @@
 
-python GPStest.py &
-./autoup.sh &
+python GPS_test.py &
+python button.py &
 
 
