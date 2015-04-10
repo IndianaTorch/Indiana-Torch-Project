@@ -5,5 +5,5 @@ cd ~/
 cd ..
 cd project
 git add .
-git commit -a -m 'torch'
+git commit -a -m 'beagle1'
 git push origin
