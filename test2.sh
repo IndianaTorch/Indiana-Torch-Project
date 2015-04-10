@@ -1,0 +1,2 @@
+./autocap.sh &
+./autoup.sh &
