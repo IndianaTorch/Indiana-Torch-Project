@@ -1,133 +1,165 @@
-Longitude = -86.9351 
-Latitude = 40.445643333 
+
+Time = 2015-04-15T17:32:05.000Z 
+Longitude = -86.935050511 
+Latitude = 40.445665386 
 
 
-Time = 2015-04-15T16:47:44.000Z 
-Longitude = -86.935096332 
-Latitude = 40.445650889 
+Time = 2015-04-15T17:32:15.000Z 
+Longitude = -86.935050511 
+Latitude = 40.445658532 
 
 
-Time = 2015-04-15T16:47:53.000Z 
-Longitude = -86.935096332 
-Latitude = 40.445650889 
+Time = 2015-04-15T17:32:26.000Z 
+Longitude = -86.935038741 
+Latitude = 40.44565822 
 
 
-Time = 2015-04-15T16:48:02.000Z 
-Longitude = -86.935096332 
-Latitude = 40.445650889 
+Time = 2015-04-15T17:32:36.000Z 
+Longitude = -86.935038741 
+Latitude = 40.44565822 
 
 
-Time = 2015-04-15T16:48:11.000Z 
-Longitude = -86.935096332 
-Latitude = 40.445650889 
+Time = 2015-04-15T17:32:48.000Z 
+Longitude = -86.935038741 
+Latitude = 40.44565822 
 
 
-Time = 2015-04-15T16:48:20.000Z 
-Longitude = -86.935096332 
-Latitude = 40.445650889 
+Time = 2015-04-15T17:32:59.000Z 
+Longitude = -86.935038741 
+Latitude = 40.44565822 
 
 
-Time = 2015-04-15T16:48:33.000Z 
-Longitude = -86.935096332 
-Latitude = 40.445657743 
+Time = 2015-04-15T17:33:10.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:48:44.000Z 
-Longitude = -86.935094441 
-Latitude = 40.445682097 
+Time = 2015-04-15T17:33:20.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:48:54.000Z 
-Longitude = -86.935094441 
-Latitude = 40.445682097 
+Time = 2015-04-15T17:33:31.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:49:07.000Z 
-Longitude = -86.935094441 
-Latitude = 40.445682097 
+Time = 2015-04-15T17:33:41.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:49:18.000Z 
-Longitude = -86.935094441 
-Latitude = 40.44568895 
+Time = 2015-04-15T17:33:52.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:49:30.000Z 
-Longitude = -86.935093811 
-Latitude = 40.445701637 
+Time = 2015-04-15T17:34:04.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:49:42.000Z 
-Longitude = -86.935093811 
-Latitude = 40.445701637 
+Time = 2015-04-15T17:34:15.000Z 
+Longitude = -86.935038741 
+Latitude = 40.445665073 
 
 
-Time = 2015-04-15T16:49:54.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:34:26.000Z 
+Longitude = -86.935038741 
+Latitude = 40.44565822 
 
 
-Time = 2015-04-15T16:50:06.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:34:36.000Z 
+Longitude = -86.935038111 
+Latitude = 40.445664054 
 
 
-Time = 2015-04-15T16:50:17.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:34:47.000Z 
+Longitude = -86.935038111 
+Latitude = 40.445664054 
 
 
-Time = 2015-04-15T16:50:29.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:34:57.000Z 
+Longitude = -86.935038111 
+Latitude = 40.445664054 
 
 
-Time = 2015-04-15T16:50:41.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:35:08.000Z 
+Longitude = -86.935038111 
+Latitude = 40.445664054 
 
 
-Time = 2015-04-15T16:50:51.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:35:19.000Z 
+Longitude = -86.935038111 
+Latitude = 40.445664054 
 
 
-Time = 2015-04-15T16:51:02.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:35:30.000Z 
+Longitude = -86.935038111 
+Latitude = 40.445664054 
 
 
-Time = 2015-04-15T16:51:12.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445708177 
+Time = 2015-04-15T17:35:40.000Z 
+Longitude = -86.935049881 
+Latitude = 40.445664366 
 
 
-Time = 2015-04-15T16:51:24.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445715031 
+Time = 2015-04-15T17:35:51.000Z 
+Longitude = -86.935049881 
+Latitude = 40.445664366 
 
 
-Time = 2015-04-15T16:51:35.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445715031 
+Time = 2015-04-15T17:36:01.000Z 
+Longitude = -86.935049881 
+Latitude = 40.445664366 
 
 
-Time = 2015-04-15T16:51:45.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445715031 
+Time = 2015-04-15T17:36:12.000Z 
+Longitude = -86.935049881 
+Latitude = 40.445664366 
 
 
-Time = 2015-04-15T16:51:56.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445715031 
+Time = 2015-04-15T17:36:22.000Z 
+Longitude = -86.935049881 
+Latitude = 40.445664366 
 
 
-Time = 2015-04-15T16:52:06.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445715031 
+Time = 2015-04-15T17:36:34.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
 
 
-Time = 2015-04-15T16:52:17.000Z 
-Longitude = -86.935082041 
-Latitude = 40.445715031 
+Time = 2015-04-15T17:36:45.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
+
+
+Time = 2015-04-15T17:36:56.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
+
+
+Time = 2015-04-15T17:37:06.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
+
+
+Time = 2015-04-15T17:37:17.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
+
+
+Time = 2015-04-15T17:37:27.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
+
+
+Time = 2015-04-15T17:37:38.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
+
+
+Time = 2015-04-15T17:37:49.000Z 
+Longitude = -86.935049251 
+Latitude = 40.4456702 
 
