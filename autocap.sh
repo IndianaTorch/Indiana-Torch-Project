@@ -2,7 +2,7 @@
 cd ~/
 cd ..
 cd project
-fswebcam -r 1920x1080 -d /dev/video0 /project/pictures/autocap.jpg
+fswebcam -r 960x480 -d /dev/video0 /project/pictures/autocap.jpg
 FILE=autocap.jpg
 NAME=${FILE%.*}
 EXT=${FILE#*.}
